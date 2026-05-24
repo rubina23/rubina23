@@ -68,13 +68,13 @@ With over **6+ years of teaching experience** and mentoring **2,300+ students**,
 - 🗃️ [Student Database System](https://github.com/rubinarubi/Student-Database-System.git) – *Built with PHP and MySQL.*
 
 ---
-
+<!--
 ### 📈 GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=rubina23&show_icons=true&theme=radial&hide_border=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubina23&layout=compact&theme=radial&hide_border=true" alt="Top Languages" width="48%" />
 </p>
-
+-->
 ---
 
 ### 🤝 Connect with Me
