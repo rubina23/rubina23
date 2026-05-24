@@ -52,9 +52,9 @@ With over **6+ years of teaching experience** and mentoring **2,300+ students**,
 ---
 
 ### 📚 Publications & Research
-- 📄 **Vector Space Model based Topic Retrieval from Bengali Documents**  
+- 📄 [Vector Space Model based Topic Retrieval from Bengali Documents](https://drive.google.com/file/d/1a1B6YCabhjVuTwSFhqJrlKmwocaUDPRj/view)  
   *Published in IEEE (ICISET 2018)*
-- 📄 **Retrieval of Topic from Bengali Documents using Similarity Based Model**  
+- 📄 [Retrieval of Topic from Bengali Documents using Similarity Based Model](https://drive.google.com/file/d/1C3385bOhnAmYuzyokuxiX_Pp-CtvhJRr/view) 
   *Presented at ICERIE 2019, SUST*
 
 ---
