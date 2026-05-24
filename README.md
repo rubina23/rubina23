@@ -81,13 +81,14 @@ With over **6+ years of teaching experience** and mentoring **2,300+ students**,
 
 <a href="https://linkedin.com/in/rubina-begum-959290178/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
+</a> &nbsp;
 <a href="https://sites.google.com/view/rubina-begum" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-</a>
+</a> &nbsp;
 <a href="mailto:rubinarubi10@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
+</a> 
+
 <!--
 - 💼 **LinkedIn:** https://www.linkedin.com/in/rubina-begum-959290178
 - 📧 **Email:** rubinarubi10@gmail.com
