@@ -39,7 +39,7 @@ I am passionate about building smart machine learning systems and breaking down 
 ### 💼 Professional Experience
 - **Lecturer (CS & ICT)** – *North East Nursing College, Sylhet* `(Nov. 2019 – Present)`
 - **Guest Lecturer (CS)** – *North East Institute of Health Technology, Sylhet* `(Jan. 2020 – Present)`
-- **Research Contributor** – *AIML Professional Community Bangladesh* `(Mar. 2025 – Present)`
+- **Research Contributor** – *AIML Professional Community Bangladesh* `(Mar. 2025 – April 2026)`
 - **Virtual Paralegal (Remote)** – *Mehran Law Office Inc., GA, USA* `(Oct. 2022 – Dec. 2023)`
 
 ---
