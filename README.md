@@ -52,20 +52,25 @@ With over **6+ years of teaching experience** and mentoring **2,300+ students**,
 ---
 
 ### 📚 Publications & Research
-- 📄 [Vector Space Model based Topic Retrieval from Bengali Documents](https://ieeexplore.ieee.org/document/8745587)
+- [Review Paper: On-Device Large Language Models (LLMs)](Ongoing Research) - Exploring architectures, optimization techniques (e.g., quantization), and deployment challenges of LLMs on edge devices.
+- [Vector Space Model based Topic Retrieval from Bengali Documents](https://ieeexplore.ieee.org/document/8745587)
   *Published in IEEE (ICISET 2018)*
-- 📄 [Retrieval of Topic from Bengali Documents using Similarity Based Model](https://drive.google.com/file/d/1C3385bOhnAmYuzyokuxiX_Pp-CtvhJRr/view) 
+- [Retrieval of Topic from Bengali Documents using Similarity Based Model](https://drive.google.com/file/d/1C3385bOhnAmYuzyokuxiX_Pp-CtvhJRr/view) 
   *Published in ICERIE 2019, SUST*
-
+<!--📄 -->
 ---
 
 ### 🚀 Key Projects
-- 🤖 **Context-aware Small Language Models for Customer Support Chatbot (Ongoing)**  
-  *Developing domain-specific lightweight models for efficient and explainable customer support using Python & Hugging Face.*
-- 🚗 [Car Rental Reservation System](https://github.com/rubina23/Car-Rental-Reservation-System.git) – *Built with MERN Stack & PostgreSQL.*
-- 📖 [Library Management System](https://github.com/rubina23/Library-Management-System.git) – *Digital solution for managing books and members using MERN & PostgreSQL.*
-- 📝 [Online Examination System](https://github.com/rubinarubi/Online-Examination-System.git) – *Developed using PHP, MySQL, HTML, CSS, and JavaScript.*
-- 🗃️ [Student Database System](https://github.com/rubinarubi/Student-Database-System.git) – *Built with PHP and MySQL.*
+- [Medical Insurance Cost Predictor](https://huggingface.co/spaces/rubina25/Medical-Insurance-Cost-Prediction-System) - Developed a Random Forest regression model to estimate medical insurance costs. Deployed it as a live web tool on Hugging Face using Gradio. 
+- [Employee Attrition Prediction](https://huggingface.co/spaces/rubina25/Employee-Attrition-Prediction-System) - Built a web app using a Random Forest model to predict if employees will leave a company. Deployed it on Hugging Face using Gradio. 
+- [Water Potability Prediction System](https://huggingface.co/spaces/rubina25/Water-Potability-Prediction) - Built a Machine Learning model (Random Forest) to check if water is safe to drink. Handled data outliers and deployed the app on Hugging Face. 
+- [Diabetes Prediction System](https://huggingface.co/spaces/rubina25/Diabetes-Prediction-System) - Created a Logistic Regression model to predict diabetes risk from patient data. Made a user-friendly    UI with Gradio and deployed it on Hugging Face. 
+- [Loan Approval Prediction System](https://huggingface.co/spaces/rubina25/Loan-Prediction-App) - Made a Logistic Regression model to predict loan approvals with 100% accuracy. 
+ Created a live web dashboard using Gradio on Hugging Face. 
+- [Car Rental Reservation System](https://github.com/rubina23/Car-Rental-Reservation-System.git) – *Built with MERN Stack & PostgreSQL.*
+- [Library Management System](https://github.com/rubina23/Library-Management-System.git) – *Digital solution for managing books and members using MERN & PostgreSQL.*
+- [Online Examination System](https://github.com/rubinarubi/Online-Examination-System.git) – *Developed using PHP, MySQL, HTML, CSS, and JavaScript.*
+- [Student Database System](https://github.com/rubinarubi/Student-Database-System.git) – *Built with PHP and MySQL.*
 
 ---
 <!--
