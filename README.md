@@ -16,10 +16,15 @@ Here are some ideas to get you started:
 -->
 
 # Hi there, I'm Rubina Begum 👋
+**AI/ML Professional | Educator | Full-Stack Developer**
 
-An **AI/ML Enthusiast** and **Computer Science Educator** who is deeply passionate about technology and student mentorship.
+I am passionate about building smart machine learning systems and breaking down complex AI concepts. After completing my B.Sc. in CSE, I am currently doing my Master's at SUST, researching On-Device LLMs and NLP.
 
-With over **6+ years of teaching experience** and mentoring **2,300+ students**, I know exactly how to make difficult topics simple and easy to understand. I love exploring the world of machine learning, deep learning, and NLP, and I excel at explaining these concepts in a beginner-friendly way.
+*  **I’m currently working on:** On-Device Large Language Models (LLMs) and building live ML apps using Gradio & Hugging Face.
+*  **I’m currently learning:** Advanced AI optimizations for edge devices.
+*  **What I do:** I have been teaching basic Computer Science to college students as a Lecturer since 2019.
+*  **I’m looking to collaborate on:** Open-source Machine Learning projects and MERN stack applications.
+*  **How to reach me:** [www.linkedin.com/in/rubina-begum-959290178]
 
 ---
 
