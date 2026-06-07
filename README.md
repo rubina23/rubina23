@@ -66,6 +66,9 @@ I am passionate about building smart machine learning systems and breaking down 
 ---
 
 ### 🚀 Key Projects
+
+- [AI Sentiment Analyzer Dashboard](https://ai-sentiment-analyzer-3q.streamlit.app/) - Built a smart web app that uses AI to read customer reviews and detect their emotions (Positive/Negative). It can automatically write polite replies to customers and fetch live YouTube comments to instantly show what people are thinking about a video.    
+- [LSTM Stock Market Predictor](https://lstm-stock-predictor-d.streamlit.app/) - Developed a Deep Learning (LSTM) model to forecast future stock prices based on historical trends. Deployed it as an interactive live web app on Streamlit Cloud using real-time data. 
 - [Medical Insurance Cost Predictor](https://huggingface.co/spaces/rubina25/Medical-Insurance-Cost-Prediction-System) - Developed a Random Forest regression model to estimate medical insurance costs. Deployed it as a live web tool on Hugging Face using Gradio. 
 - [Employee Attrition Prediction](https://huggingface.co/spaces/rubina25/Employee-Attrition-Prediction-System) - Built a web app using a Random Forest model to predict if employees will leave a company. Deployed it on Hugging Face using Gradio. 
 - [Water Potability Prediction System](https://huggingface.co/spaces/rubina25/Water-Potability-Prediction) - Built a Machine Learning model (Random Forest) to check if water is safe to drink. Handled data outliers and deployed the app on Hugging Face. 
