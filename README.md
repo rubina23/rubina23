@@ -13,13 +13,13 @@ I am an innovative AI/ML Engineer and CS Educator with over 7 years of experienc
 
 ## 🚀 Featured AI/ML Projects
 
-* **[FinCast: Deep Learning Stock Predictor](Link_to_repo)**  
+* **FinCast: Deep Learning Stock Predictor || [GitHub Repo](https://github.com/rubina23/LSTM-Stock-Predictor) || [Live](https://lstm-stock-predictor-d.streamlit.app/)**  
   Built a real-time time-series forecasting engine using an optimized LSTM Neural Network. Implemented pre-trained weights for blazing-fast inference on Streamlit.
-* **[DocuMind: Clinical RAG System](Link_to_repo)**  
+* **DocuMind: Clinical RAG System || [GitHub Repo](https://github.com/rubina23/Advanced-RAG-System-with-MLOps) || [Live](https://advanced-rag-system-with-mlops.streamlit.app/)**  
   Designed a highly scalable, HIPAA-compliant document assistant utilizing LangChain, FAISS, and FastAPI to extract and query complex medical reports with sub-second latency.
-* **[TalentSync: Intelligent ATS Platform](Link_to_repo)**  
+* **TalentSync: Intelligent ATS Platform || [GitHub Repo](https://github.com/rubina23/ai-resume-screener) || [Live](https://ai-resume-screener-ats.streamlit.app/)**  
   Engineered a hybrid resume screening application using Scikit-Learn (TF-IDF) and Generative AI to automate candidate batch ranking and deliver context-aware career guidance.
-* **[PulseAI: Multilingual Sentiment Engine](Link_to_repo)**  
+* **PulseAI: Multilingual Sentiment Engine || [GitHub Repo](https://github.com/rubina23/AI-Sentiment-Analyzer) || [Live](https://ai-sentiment-analyzer-3q.streamlit.app/)**  
   Developed a real-time NLP dashboard leveraging Hugging Face transformers and a custom rule-based engine to accurately analyze customer feedback and scrape live sentiment data.
 
 <details>
