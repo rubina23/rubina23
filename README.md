@@ -59,11 +59,10 @@ I am an innovative AI/ML Engineer and CS Educator with over 7 years of experienc
 
 ## 📚 Publications & Research
 
-* **Ongoing Research:** *On-Device Large Language Models (LLMs)* - Exploring architectures, optimization techniques, and deployment challenges on edge devices.
-- [Vector Space Model based Topic Retrieval from Bengali Documents](https://ieeexplore.ieee.org/document/8745587)
-  *Published in IEEE (ICISET 2018)*
-- [Retrieval of Topic from Bengali Documents using Similarity Based Model](https://drive.google.com/file/d/1C3385bOhnAmYuzyokuxiX_Pp-CtvhJRr/view) 
-  *Published in ICERIE 2019, SUST*
+* **On-Device Large Language Models (LLMs)** - Exploring architectures, optimization techniques, and deployment challenges on edge devices.
+- **Retrieval of Topic from Bengali Documents using Similarity Based Model**
+  *Published in ICERIE 2019, SUST* || [View](https://drive.google.com/file/d/1C3385bOhnAmYuzyokuxiX_Pp-CtvhJRr/view) 
+- **Vector Space Model based Topic Retrieval from Bengali Documents**  *Published in IEEE (ICISET 2018)* || [View](https://ieeexplore.ieee.org/document/8745587)
 ---
 ## 🎓 Education
 * **M.Sc. (Engg.) in Computer Science and Engineering** - Shahjalal University of Science and Technology (SUST)
