@@ -7,7 +7,7 @@ I am an innovative AI/ML Engineer and CS Educator with over 7 years of experienc
 * 🌱 **I’m currently learning:** Advanced AI optimizations for edge devices and scalable ML system design.
 * 🎓 **Background:** Over 7 years of experience teaching foundational Computer Science, ICT and Nursing Informatics. 
 * 👯 **I’m looking to collaborate on:** Open-source AI/ML projects and Generative AI applications.
-* 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/rubina-begum) | [Portfolio Website Link]
+* 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/rubina-begum-959290178/) || [Portfolio Website](https://sites.google.com/view/rubina-begum)
 
 ---
 
@@ -41,6 +41,7 @@ I am an innovative AI/ML Engineer and CS Educator with over 7 years of experienc
 * **Languages:** Python (Advanced),C/C++, JavaScript(ES6+), TypeScript.
 * **Full-Stack & Tools:** FastAPI, Streamlit, Gradio, React, Node.js, SQL/NoSQL, Git, GitHub.
 * **Domain Expertise:** Healthcare Informatics, HIPAA Compliance, On-Device LLM Optimization.
+* **Developer Tools** VS Code, Git, GitHub, Chrome DevTools, Figma, Postman
  
 ---
 
@@ -68,14 +69,7 @@ I am an innovative AI/ML Engineer and CS Educator with over 7 years of experienc
 * **M.Sc. (Engg.) in Computer Science and Engineering** - Shahjalal University of Science and Technology (SUST)
 * **B.Sc. (Engg.) in Computer Science and Engineering** - North East University Bangladesh
 
-
-# ////////////////
-# 1. Hi there, I'm Rubina Begum 👋
-
-
-
----
-
+<!--
 ### 🛠️ Technical Stack
 
 | Category | Tools & Technologies |
@@ -85,12 +79,10 @@ I am an innovative AI/ML Engineer and CS Educator with over 7 years of experienc
 | **Languages** | Python, C/C++, JavaScript (ES6+), TypeScript, HTML5, CSS3, Bootstrap 5 |
 | **Frameworks & Databases** | React, Node.js, Next.js, MERN Stack, Redux, Mongoose, Prisma, PostgreSQL, MongoDB, SQL, MySQL |
 | **Developer Tools** | VS Code, Git, GitHub, Chrome DevTools, Figma, Postman |
+-->
 
----
 
-### 📚 Publications & Research
-
-<!--📄 -->
+<!--📄 
 ---
 
 ### 🚀 Key Projects
@@ -109,6 +101,8 @@ I am an innovative AI/ML Engineer and CS Educator with over 7 years of experienc
 - [Student Database System](https://github.com/rubinarubi/Student-Database-System.git) – *Built with PHP and MySQL.*
 
 ---
+-->
+
 <!--
 ### 📈 GitHub Stats
 <p align="left">
