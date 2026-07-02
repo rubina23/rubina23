@@ -1,46 +1,78 @@
-
-
-<!--
-**rubina23/rubina23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # Hi there, I'm Rubina Begum 👋
-**AI/ML Professional | Educator | Full-Stack Developer**
+### Independent AI/ML Engineer | Educator 
 
-I am passionate about building smart machine learning systems and breaking down complex AI concepts. After completing my B.Sc. in CSE, I am currently doing my Master's at SUST, researching On-Device LLMs and NLP.
+I am an innovative AI/ML Engineer and CS Educator with over 7 years of experience blending academic excellence in Computer Science and Healthcare Informatics with hands-on AI development. I specialize in architecting enterprise-grade machine learning solutions, with a core focus on building scalable, privacy-first applications. 
 
-*  **I’m currently working on:** On-Device Large Language Models (LLMs) and building live ML apps using Gradio & Hugging Face.
-*  **I’m currently learning:** Advanced AI optimizations for edge devices.
-*  **What I do:** I have been teaching basic Computer Science to college students as a Lecturer since 2019.
-*  **I’m looking to collaborate on:** Open-source Machine Learning projects and MERN stack applications.
-*  **How to reach me:** [www.linkedin.com/in/rubina-begum-959290178]
-
----
-
-### 🎓 Education
-- **M.Sc. (Engg.) in Computer Science and Engineering**  
-  *Shahjalal University of Science and Technology (SUST)* 
-- **B.Sc. (Engg.) in Computer Science and Engineering**  
-  *North East University Bangladesh* 
+* 🔭 **I’m currently working on:** Architecting intelligent solutions using RAG frameworks and researching On-Device LLMs.
+* 🌱 **I’m currently learning:** Advanced AI optimizations for edge devices and scalable ML system design.
+* 🎓 **Background:** Over 7 years of experience teaching foundational Computer Science, ICT and Nursing Informatics. 
+* 👯 **I’m looking to collaborate on:** Open-source AI/ML projects and Generative AI applications.
+* 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/rubina-begum) | [Portfolio Website Link]
 
 ---
 
-### 💼 Professional Experience
-- **Lecturer (CS & ICT)** – *North East Nursing College, Sylhet* `(Nov. 2019 – Present)`
-- **Guest Lecturer (CS)** – *North East Institute of Health Technology, Sylhet* `(Jan. 2020 – Present)`
-- **Research Contributor** – *AIML Professional Community Bangladesh* `(Mar. 2025 – April 2026)`
-- **Virtual Paralegal (Remote)** – *Mehran Law Office Inc., GA, USA* `(Oct. 2022 – Dec. 2023)`
+## 🚀 Featured AI/ML Projects
+
+* **[FinCast: Deep Learning Stock Predictor](Link_to_repo)**  
+  Built a real-time time-series forecasting engine using an optimized LSTM Neural Network. Implemented pre-trained weights for blazing-fast inference on Streamlit.
+* **[DocuMind: Clinical RAG System](Link_to_repo)**  
+  Designed a highly scalable, HIPAA-compliant document assistant utilizing LangChain, FAISS, and FastAPI to extract and query complex medical reports with sub-second latency.
+* **[TalentSync: Intelligent ATS Platform](Link_to_repo)**  
+  Engineered a hybrid resume screening application using Scikit-Learn (TF-IDF) and Generative AI to automate candidate batch ranking and deliver context-aware career guidance.
+* **[PulseAI: Multilingual Sentiment Engine](Link_to_repo)**  
+  Developed a real-time NLP dashboard leveraging Hugging Face transformers and a custom rule-based engine to accurately analyze customer feedback and scrape live sentiment data.
+
+<details>
+<summary><b>📂 View Other Machine Learning Projects</b></summary>
+<br>
+
+* **Medical Insurance Cost Predictor:** Random Forest regression model deployed on Hugging Face using Gradio.
+* **Employee Attrition Prediction:** Predictive web app to analyze employee retention (Random Forest).
+* **Water Potability Prediction:** ML system to classify safe drinking water.
+* **Diabetes & Loan Approval Systems:** Highly accurate Logistic Regression models with interactive Gradio UI.
+</details>
+
+---
+
+## 🛠️ Technical Expertise
+
+* **Core AI/ML:** Natural Language Processing (NLP), Generative AI, Deep Learning (LSTM), Retrieval-Augmented Generation (RAG), Time Series Forecasting.
+* **Frameworks & Libraries:** TensorFlow (Keras), Scikit-Learn, LangChain, Hugging Face Transformers, Pandas, NumPy, FAISS.
+* **Languages:** Python (Advanced),C/C++, JavaScript(ES6+), TypeScript.
+* **Full-Stack & Tools:** FastAPI, Streamlit, Gradio, React, Node.js, SQL/NoSQL, Git, GitHub.
+* **Domain Expertise:** Healthcare Informatics, HIPAA Compliance, On-Device LLM Optimization.
+ 
+---
+
+## 💼 Professional Experience
+
+* **Independent AI/ML Engineer (Self-employed)** *(Apr 2023 – Present)*  
+  Architecting and deploying scalable, enterprise-grade machine learning applications.
+* **Research Contributor** – AIML Professional Community Bangladesh *(Aug 2025 – Present)*
+* **Lecturer (CS, ICT & Nursing Informatics)** – North East Nursing College, Sylhet *(Jan 2019 – Present)*
+* **Guest Lecturer (CS)** – North East Institute of Health Technology, Sylhet *(Jan 2020 – Present)*
+* **Virtual Paralegal (Remote)** – Monir Mehran Law Firm, PC., USA *(2022 – Mar 2023)*
+* **Undergraduate Researcher** – North East University Bangladesh *(Jan 2016 – Dec 2018)*
+  
+---
+
+## 📚 Publications & Research
+
+* **Ongoing Research:** *On-Device Large Language Models (LLMs)* - Exploring architectures, optimization techniques, and deployment challenges on edge devices.
+- [Vector Space Model based Topic Retrieval from Bengali Documents](https://ieeexplore.ieee.org/document/8745587)
+  *Published in IEEE (ICISET 2018)*
+- [Retrieval of Topic from Bengali Documents using Similarity Based Model](https://drive.google.com/file/d/1C3385bOhnAmYuzyokuxiX_Pp-CtvhJRr/view) 
+  *Published in ICERIE 2019, SUST*
+---
+## 🎓 Education
+* **M.Sc. (Engg.) in Computer Science and Engineering** - Shahjalal University of Science and Technology (SUST)
+* **B.Sc. (Engg.) in Computer Science and Engineering** - North East University Bangladesh
+
+
+# ////////////////
+# 1. Hi there, I'm Rubina Begum 👋
+
+
 
 ---
 
@@ -57,11 +89,7 @@ I am passionate about building smart machine learning systems and breaking down 
 ---
 
 ### 📚 Publications & Research
-- Review Paper: On-Device Large Language Models (LLMs)(Ongoing Research) - Exploring architectures, optimization techniques (e.g., quantization), and deployment challenges of LLMs on edge devices.
-- [Vector Space Model based Topic Retrieval from Bengali Documents](https://ieeexplore.ieee.org/document/8745587)
-  *Published in IEEE (ICISET 2018)*
-- [Retrieval of Topic from Bengali Documents using Similarity Based Model](https://drive.google.com/file/d/1C3385bOhnAmYuzyokuxiX_Pp-CtvhJRr/view) 
-  *Published in ICERIE 2019, SUST*
+
 <!--📄 -->
 ---
 
