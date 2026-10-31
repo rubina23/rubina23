@@ -160,7 +160,6 @@ My research interests include:
 - **Efficient and Lightweight AI Models**
 - **AI Applications in Healthcare**
 - **Information Retrieval and Bengali Language Processing**
----
 
 ---
 ## 📬 Let's Connect
