@@ -101,12 +101,12 @@ Currently, I am pursuing an **M.Sc. in Computer Science and Engineering** at **S
 <!--
 
 # Hi there, I'm Rubina Begum 👋
-
+-->
 
 <details>
 <summary><b>📂 View Other Machine Learning Projects</b></summary>
 <br>
--->
+
 * **Medical Insurance Cost Predictor:** Random Forest regression model deployed on Hugging Face using Gradio.
 * **Employee Attrition Prediction:** Predictive web app to analyze employee retention (Random Forest).
 * **Water Potability Prediction:** ML system to classify safe drinking water.
