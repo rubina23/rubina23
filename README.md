@@ -1,13 +1,107 @@
+<div align="center">
+
+# RUBINA BEGUM
+### Computer Science & Engineering Professional
+**AI/ML Engineer | Software Developer | Researcher | Academic Instructor**  
+📍 *Sylhet, Bangladesh*
+
+---
+
+> *Exploring technology, building intelligent solutions, developing software applications, and contributing to research and education.*
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-182B49?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sites.google.com/view/rubina-begum)
+[![Download CV](https://img.shields.io/badge/Download_CV-238636?style=for-the-badge&logo=googledocs&logoColor=white)](YOUR_CV_DRIVE_OR_PDF_LINK)
+[![Email Me](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rubinarubi10@gmail.com)
+
+---
+
+</div>
+
+
+<!--
+# RUBINA BEGUM
+### Computer Science & Engineering Professional
+**AI/ML Engineer | Software Developer | Researcher | Academic Instructor**  
+*Sylhet, Bangladesh*
+
+Exploring technology, building intelligent solutions, developing software applications, and contributing to research and education.
+-->
+
+
+## 👩‍💻 About Me
+
+I am a Computer Science and Engineering professional with over 7 years of combined experience in Artificial Intelligence, Machine Learning, software development, academic instruction, and technical research.
+
+My professional background combines technical expertise, practical project development, research, and academic teaching. I have hands-on experience developing AI-powered applications, building backend systems, working with databases, testing REST APIs, and exploring emerging technologies.
+
+Currently, I am pursuing an **M.Sc. in Computer Science and Engineering** at **Shahjalal University of Science and Technology (SUST), Sylhet**. I enjoy solving real-world problems through technology, continuous learning, research, and innovation.
+
+
+## 🛠️ Areas of Expertise
+
+| Domain | Core Focus & Technologies |
+| :--- | :--- |
+| 🧠 **AI & Machine Learning** | Machine Learning, Deep Learning, Generative AI, LLMs, NLP, RAG, AI Applications |
+| 💻 **Software Development** | Python, FastAPI, Flask, Streamlit, REST APIs, Backend Development |
+| 🧪 **Software Testing** | Postman, Pytest, REST API Testing, CRUD Testing, API Validation |
+| 🗄️ **Database Management** | PostgreSQL, MySQL, SQL, NoSQL, Vector Databases |
+| 📊 **Data Science & Analytics** | Data Analysis, Data Visualization, Statistical Analysis, Predictive Modeling |
+| 🎓 **Research & Academic** | Technical Research, Academic Teaching, Student Mentoring, Knowledge Sharing |
+
+---
+
+## 🚀 Featured Projects
+
+### 1. 🧠 DocuMind AI — Intelligent Document Q&A System
+> An advanced RAG-based document analysis platform that processes multi-page PDFs to provide precise, hallucination-free answers with source citations.
+
+* **Tech Stack:** `Python` `LangChain` `FAISS` `HuggingFace / Gemini` `Streamlit`
+* **Key Highlights:** Multi-document vector indexing, contextual retrieval, and sub-second semantic search.
+* **Links:** [📁 GitHub Repository](https://github.com/rubina23/Advanced-RAG-System-with-MLOps) &nbsp;|&nbsp; [🌐 Live Application](https://advanced-rag-system-with-mlops.streamlit.app/)
+
+---
+
+### 2. 📄 TalentSync ATS — AI Resume Screening Platform
+> An AI-driven applicant tracking and resume matching system designed to parse, score, and rank candidate CVs against job descriptions.
+
+* **Tech Stack:** `Python` `NLP` `Scikit-Learn` `Streamlit` `Text Extraction`
+* **Key Highlights:** Automated skill extraction, semantic similarity scoring, and candidate ranking dashboard.
+* **Links:** [📁 GitHub Repository](YOUR_TALENTSYNC_GITHUB_LINK) &nbsp;|&nbsp; [🌐 Live Application](YOUR_TALENTSYNC_LIVE_LINK)
+
+---
+
+### 3. 💳 Expense Tracker API — Secure Backend Service
+> A robust, production-ready RESTful backend API engineered with comprehensive CRUD functionality, relational data integrity, and automated test coverage.
+
+* **Tech Stack:** `FastAPI` `PostgreSQL` `SQLAlchemy` `JWT` `Pytest`
+* **Key Highlights:** Secure JWT authentication, structured schema validation with Pydantic, and automated endpoint testing via Pytest.
+* **Links:** [📁 GitHub Repository](YOUR_EXPENSE_API_GITHUB_LINK) &nbsp;|&nbsp; [📑 Live API Documentation](YOUR_EXPENSE_API_DOCS_LINK)
+
+---
+
+### 4. 📊 PulseAI — Sentiment Analysis Dashboard
+> A machine-learning-powered text classification and sentiment analytics application to evaluate user sentiment and customer feedback.
+
+* **Tech Stack:** `Python` `NLTK` `Transformers` `Streamlit` `Plotly`
+* **Key Highlights:** Real-time text polarity detection, interactive visualization charts, and batch sentiment processing.
+* **Links:** [📁 GitHub Repository](YOUR_PULSEAI_GITHUB_LINK) &nbsp;|&nbsp; [🌐 Live Application](YOUR_PULSEAI_LIVE_LINK)
+
+---
+
+### 5. 📈 FinCast — Stock Prediction with LSTM
+> A deep learning financial forecasting application utilizing Long Short-Term Memory (LSTM) recurrent neural networks to predict equity price movements.
+
+* **Tech Stack:** `Python` `TensorFlow / PyTorch` `LSTM` `Pandas` `Matplotlib`
+* **Key Highlights:** Sequential time-series modeling, dynamic moving averages, and historical trend forecasting.
+* **Links:** [📁 GitHub Repository](YOUR_FINCAST_GITHUB_LINK) &nbsp;|&nbsp; [🌐 Live Application](YOUR_FINCAST_LIVE_LINK)
+
+---
+
+
 # Hi there, I'm Rubina Begum 👋
-### Independent AI/ML Engineer | Educator 
-
-I am an innovative AI/ML Engineer and CS Educator with over 7 years of experience blending academic excellence in Computer Science and Healthcare Informatics with hands-on AI development. I specialize in architecting enterprise-grade machine learning solutions, with a core focus on building scalable, privacy-first applications. 
-
-* 🔭 **I’m currently working on:** Architecting intelligent solutions using RAG frameworks and researching On-Device LLMs.
-* 🌱 **I’m currently learning:** Advanced AI optimizations for edge devices and scalable ML system design.
-* 🎓 **Background:** Over 7 years of experience teaching foundational Computer Science, ICT and Nursing Informatics. 
-* 👯 **I’m looking to collaborate on:** Open-source AI/ML projects and Generative AI applications.
-* 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/rubina-begum-959290178/) || [Portfolio Website](https://sites.google.com/view/rubina-begum)
+* 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/rubina-begum-959290178/) || [Portfolio Website]()
 
 ---
 
