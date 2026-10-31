@@ -149,6 +149,38 @@ Currently, I am pursuing an **M.Sc. in Computer Science and Engineering** at **S
 * **M.Sc. (Engg.) in Computer Science and Engineering** - Shahjalal University of Science and Technology (SUST)
 * **B.Sc. (Engg.) in Computer Science and Engineering** - North East University Bangladesh
 
+---
+## 🔬 Research Interests
+
+My research interests include:
+
+- **Artificial Intelligence and Machine Learning**
+- **Generative AI and Large Language Models**
+- **Natural Language Processing**
+- **Efficient and Lightweight AI Models**
+- **AI Applications in Healthcare**
+- **Information Retrieval and Bengali Language Processing**
+---
+
+
+
+
+---
+### 🤝 Connect with Me
+
+<a href="https://linkedin.com/in/rubina-begum-959290178/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a> &nbsp;
+<a href="https://sites.google.com/view/rubina-begum" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+</a> &nbsp;
+<a href="mailto:rubinarubi10@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a> 
+
+---
+
+
 <!--
 ### 🛠️ Technical Stack
 
@@ -191,18 +223,6 @@ Currently, I am pursuing an **M.Sc. in Computer Science and Engineering** at **S
 </p>
 -->
 ---
-
-### 🤝 Connect with Me
-
-<a href="https://linkedin.com/in/rubina-begum-959290178/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a> &nbsp;
-<a href="https://sites.google.com/view/rubina-begum" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-</a> &nbsp;
-<a href="mailto:rubinarubi10@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a> 
 
 <!--
 - 💼 **LinkedIn:** https://www.linkedin.com/in/rubina-begum-959290178
