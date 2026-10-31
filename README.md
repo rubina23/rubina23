@@ -114,7 +114,7 @@ Currently, I am pursuing an **M.Sc. in Computer Science and Engineering** at **S
 </details>
 
 ---
-
+<!--
 ## 🛠️ Technical Expertise
 
 * **Core AI/ML:** Natural Language Processing (NLP), Generative AI, Deep Learning (LSTM), Retrieval-Augmented Generation (RAG), Time Series Forecasting.
@@ -123,7 +123,7 @@ Currently, I am pursuing an **M.Sc. in Computer Science and Engineering** at **S
 * **Full-Stack & Tools:** FastAPI, Streamlit, Gradio, React, Node.js, SQL/NoSQL, Git, GitHub.
 * **Domain Expertise:** Healthcare Informatics, HIPAA Compliance, On-Device LLM Optimization.
 * **Developer Tools** VS Code, Git, GitHub, Chrome DevTools, Figma, Postman
- 
+ -->
 ---
 
 ## 💼 Professional Experience
