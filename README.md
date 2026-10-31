@@ -68,7 +68,7 @@ Currently, I am pursuing an **M.Sc. in Computer Science and Engineering** at **S
 
 * **Tech Stack:** `Python` `NLP` `Scikit-Learn` `Streamlit` `Text Extraction`
 * **Key Highlights:** Automated skill extraction, semantic similarity scoring, and candidate ranking dashboard.
-* **Links:** [📁 GitHub Repository](YOUR_TALENTSYNC_GITHUB_LINK) &nbsp;|&nbsp; [🌐 Live Application](YOUR_TALENTSYNC_LIVE_LINK)
+* **Links:** [📁 GitHub Repository](https://github.com/rubina23/ai-resume-screener) &nbsp;|&nbsp; [🌐 Live Application](https://ai-resume-screener-ats.streamlit.app/)
 
 ---
 
@@ -77,7 +77,7 @@ Currently, I am pursuing an **M.Sc. in Computer Science and Engineering** at **S
 
 * **Tech Stack:** `FastAPI` `PostgreSQL` `SQLAlchemy` `JWT` `Pytest`
 * **Key Highlights:** Secure JWT authentication, structured schema validation with Pydantic, and automated endpoint testing via Pytest.
-* **Links:** [📁 GitHub Repository](YOUR_EXPENSE_API_GITHUB_LINK) &nbsp;|&nbsp; [📑 Live API Documentation](YOUR_EXPENSE_API_DOCS_LINK)
+* **Links:** [📁 GitHub Repository](https://github.com/rubina23/Expense-Tracker-API) &nbsp;|&nbsp; [📑 Live API Documentation](https://expense-tracker-api-9x5u.onrender.com/docs)
 
 ---
 
@@ -86,7 +86,7 @@ Currently, I am pursuing an **M.Sc. in Computer Science and Engineering** at **S
 
 * **Tech Stack:** `Python` `NLTK` `Transformers` `Streamlit` `Plotly`
 * **Key Highlights:** Real-time text polarity detection, interactive visualization charts, and batch sentiment processing.
-* **Links:** [📁 GitHub Repository](YOUR_PULSEAI_GITHUB_LINK) &nbsp;|&nbsp; [🌐 Live Application](YOUR_PULSEAI_LIVE_LINK)
+* **Links:** [📁 GitHub Repository](https://github.com/rubina23/AI-Sentiment-Analyzer) &nbsp;|&nbsp; [🌐 Live Application](https://ai-sentiment-analyzer-3q.streamlit.app/)
 
 ---
 
@@ -95,26 +95,13 @@ Currently, I am pursuing an **M.Sc. in Computer Science and Engineering** at **S
 
 * **Tech Stack:** `Python` `TensorFlow / PyTorch` `LSTM` `Pandas` `Matplotlib`
 * **Key Highlights:** Sequential time-series modeling, dynamic moving averages, and historical trend forecasting.
-* **Links:** [📁 GitHub Repository](YOUR_FINCAST_GITHUB_LINK) &nbsp;|&nbsp; [🌐 Live Application](YOUR_FINCAST_LIVE_LINK)
+* **Links:** [📁 GitHub Repository](https://github.com/rubina23/LSTM-Stock-Predictor) &nbsp;|&nbsp; [🌐 Live Application](https://lstm-stock-predictor-d.streamlit.app/)
 
 ---
 
 
 # Hi there, I'm Rubina Begum 👋
-* 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/rubina-begum-959290178/) || [Portfolio Website]()
 
----
-
-## 🚀 Featured AI/ML Projects
-
-* **FinCast: Deep Learning Stock Predictor || [GitHub Repo](https://github.com/rubina23/LSTM-Stock-Predictor) || [Live](https://lstm-stock-predictor-d.streamlit.app/)**  
-  Built a real-time time-series forecasting engine using an optimized LSTM Neural Network. Implemented pre-trained weights for blazing-fast inference on Streamlit.
-* **DocuMind: Clinical RAG System || [GitHub Repo](https://github.com/rubina23/Advanced-RAG-System-with-MLOps) || [Live](https://advanced-rag-system-with-mlops.streamlit.app/)**  
-  Designed a highly scalable, HIPAA-compliant document assistant utilizing LangChain, FAISS, and FastAPI to extract and query complex medical reports with sub-second latency.
-* **TalentSync: Intelligent ATS Platform || [GitHub Repo](https://github.com/rubina23/ai-resume-screener) || [Live](https://ai-resume-screener-ats.streamlit.app/)**  
-  Engineered a hybrid resume screening application using Scikit-Learn (TF-IDF) and Generative AI to automate candidate batch ranking and deliver context-aware career guidance.
-* **PulseAI: Multilingual Sentiment Engine || [GitHub Repo](https://github.com/rubina23/AI-Sentiment-Analyzer) || [Live](https://ai-sentiment-analyzer-3q.streamlit.app/)**  
-  Developed a real-time NLP dashboard leveraging Hugging Face transformers and a custom rule-based engine to accurately analyze customer feedback and scrape live sentiment data.
 
 <details>
 <summary><b>📂 View Other Machine Learning Projects</b></summary>
